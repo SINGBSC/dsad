@@ -881,7 +881,7 @@ nav .menu .menu_icon:hover .icon:after {
 .wrapper .container .container1 .cigarette1 span {
   position: absolute;
   color: #fff;
-  font-size: 2em;
+  font-size: 5em;
   font-weight: 900;
   text-transform: uppercase;
   transform: translate(-50%, -50%) rotateX(calc(var(--i) * 36deg)) translateZ(40px);
