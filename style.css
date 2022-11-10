@@ -961,6 +961,8 @@ nav .menu .menu_icon:hover .icon:after {
   width: inherit;
   height: inherit;
   position: absolute;
+  LEFT: -340PX;
+   TOP: 851PX;
 }
 .wrapper .container .loader::before,
 .wrapper .container .loader::after {
